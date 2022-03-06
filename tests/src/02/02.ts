@@ -11,7 +11,7 @@ type AdressType = {
     city: LocalCityType;
 }
 
-type StudentType = {
+export type StudentType = {
     id: number;
     name: string;
     age: number;
